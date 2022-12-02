@@ -25,17 +25,12 @@ is divided into two subparts as follows
 
 1. Ratings Prediction:
 
-This involves predicting the rating of a place based on ‘Rating’, ‘Categories’, and ‘Price’ feature inputs to the model. 𝑌 = {1, 2, 3, 4, 5} denotes the predictions made by the proposed model where each value indicates the rating given by the user. Given U, P, and R, this work aims to determine the ratings provided by the user as illustrated in the following equation:
-
-<center>𝐹: ∆(𝑈,𝑃, 𝑅) → 𝑌𝑟</center>
-
+This involves predicting the rating of a place based on ‘Rating’, ‘Categories’, and ‘Price’ feature inputs to the model. 𝑌 = {1, 2, 3, 4, 5} denotes the predictions made by the proposed model where each value indicates the rating given by the user. Given U, P, and R, this work aims to determine the ratings provided by the user as illustrated in the equation: 𝐹: ∆(𝑈,𝑃, 𝑅) → 𝑌𝑟
 
 2. Categories Prediction:
 
 We also try to find similarities between different existing ‘Restaurant’ categories and trying to recommend the user a category which best suits his taste based on his history of places visited, using ‘Rating’, ‘Categories’, and ‘Price’. The predicted category would still be of ‘Restaurant’ type and has 40 possible values. Let the preferred place category for the user recommended
-by the model be represented as 𝑌𝑐 = {'American Restaurant', 'Asian Restaurant'}. Mathematically, Given U, P, and R, this work aims to determine the preferred categories of the user as illustrated in the following equation.
-
-<center>𝐹: ∆(𝑈,𝑃, 𝑅) → 𝑌𝑐</center>
+by the model be represented as 𝑌𝑐 = {'American Restaurant', 'Asian Restaurant'}. Mathematically, Given U, P, and R, this work aims to determine the preferred categories of the user as illustrated in the equation: 𝐹: ∆(𝑈,𝑃, 𝑅) → 𝑌𝑐
 
 ## Experiments and Results <a name="results"></a>
 
