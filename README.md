@@ -1,13 +1,12 @@
 # Understanding the interplay between rating and category for restaurants in Google Local Review
 
 ## Table of contents:
-1. [Collaborators](#collaborators)
-2. [Abstract](#abstract)
-3. [Dataset](#data)
-4. [Predictive Task](#task)
-5. [Experiments and Results](#results)
-6. [Conclusion](#conclusion)
-7. [Future Scope](#future)
+1. [Abstract](#abstract)
+2. [Dataset](#data)
+3. [Predictive Task](#task)
+4. [Experiments and Results](#results)
+5. [Conclusion](#conclusion)
+6. [Future Scope](#future)
 
 ## Collaborators <a name="collaborators"></a>
 * [Prasannakumaran Dhanasekaran](https://www.linkedin.com/in/prasannakumaran/)
@@ -84,6 +83,6 @@ standard metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error 
 
 ## Thank you!
 
-I hope you found the project useful and interesting. This project was developed as part of the [CSE 258 class](https://cseweb.ucsd.edu/classes/fa22/cse258-a/) offered Prof. Julian McAuley in Fall 2022 at UCSD. Find the copy of the complete report [here](https://github.com/rohithaug/rating-category-prediction-google-local/blob/main/report.pdf) for reference.
+I hope you found the project useful and interesting. This project was developed as part of the [CSE 258 class](https://cseweb.ucsd.edu/classes/fa22/cse258-a/) offered by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) in Fall 2022 at the University of California, San Diego. Find the copy of the complete report [here](https://github.com/rohithaug/rating-category-prediction-google-local/blob/main/report.pdf) for reference.
 
 -- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
